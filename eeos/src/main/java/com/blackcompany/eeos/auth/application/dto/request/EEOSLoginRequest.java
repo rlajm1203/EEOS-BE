@@ -11,6 +11,5 @@ import lombok.NoArgsConstructor;
 public class EEOSLoginRequest implements AbstractDto {
 
 	private String id;
-
 	private String password;
 }
